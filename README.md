@@ -1,5 +1,5 @@
 # frontend-nanodegree-arcade-game
-# ===============================
+
 
 ## What is the arcade game
 This is a simple version of classic frogger arcade game.
